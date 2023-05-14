@@ -1,0 +1,9 @@
+.contedor-logo {
+    align-items: center;
+    justify-content: center;
+    max-width: 300px;
+}
+
+.logo {
+    max-width: 200px;
+}
